@@ -32,7 +32,7 @@ EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'covidvaccinebooking1@gmail.com'
 EMAIL_HOST_PASSWORD = 'lseoednqcscufyti'
 
-ALLOWED_HOSTS = ['.vercel.app']
+ALLOWED_HOSTS = ['*']
 
 
 
